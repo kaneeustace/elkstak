@@ -1,2 +1,0 @@
-# elkstak
-elk stack deployment
